@@ -1,9 +1,8 @@
 # pac-man
-Basic pac-man game without ghosts made with Object C
+Basic Pac-man game without the ghosts included.
 
-There is 72 food on the map, the game completes after you eat them all.
-This game was made for a lesson project so it is kind of basic.
-I didn't have enough time to code AI so i didnt include ghosts in the game.
+There are 72 foods to collect on the map, the objective is to eat them all. When you collect all of them the game finishes.
+I didn't have enough time and knowledge to code AI so I didnt include ghosts in the game.
 The game needs to be compiled on Turbo C++.
 
 Game Controls:
